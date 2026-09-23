@@ -6,6 +6,16 @@ __MACOSX/
 .LSOverride
 Icon[]
 
+# Script specific files
+photos.db
+.thumbs/
+*.jpg
+*.jpeg
+*.png
+*.heic
+report.html
+flags.csv
+
 #/ Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
