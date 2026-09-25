@@ -26,7 +26,9 @@ EXT = {".jpg", ".jpeg", ".png", ".heic", ".webp"}
 DB = "photos.db"
 PROMPTS = [
     "a screenshot of a phone or computer screen",
-    "a photo of a receipt, document or whiteboard",
+    "a photo of a printed document, bill, invoice, or receipt",
+    "a handwritten note, sticky note, or whiteboard with text",
+    "an ID card, passport, or QR code",
     "a meme or image with text overlay",
     "a normal photo taken with a camera",
 ]
